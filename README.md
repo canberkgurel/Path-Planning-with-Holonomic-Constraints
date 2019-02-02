@@ -14,3 +14,5 @@ Then run:
 ```ruby
 python2.7 challenge_1/src/challenge_1_test.py --viz
 ```
+There are four challenges that the code is tested with. The performance in the last challenge is as follows:
+![Challenge 4](/)
