@@ -3,3 +3,9 @@ An autonomous track loader, wants to move dirt between two spoil piles, A and B.
 
 ![Task](/Task.jpg)
 ![Notes](/Notes.jpg)
+
+# How to run the code?
+
+```ruby
+python2.7 challenge_1/src/challenge_1_test.py --viz
+```
